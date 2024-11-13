@@ -111,6 +111,10 @@ const VueBarcodeScanner = {
       attributes.setting.scannerSensitivity = sensitivity
     }
 
+    Vue.prototype.$barcodeScanner.isScanning = () => {
+      attributes.barcode.length > 1
+    }
+
     function addListener (type) {
       if (attributes.hasListener) {
         removeListener(type)

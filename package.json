@@ -1,6 +1,6 @@
 {
-  "name": "vue-barcode-scanner",
-  "version": "0.8.1",
+  "name": "indy-vue-barcode-scanner",
+  "version": "1.0.0",
   "description": "Barcode Scanner Plugin for Vue.js",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noomerzx/vue-barcode-scanner"
+    "url": "git+https://github.com/INDY-Cinema-Group/indy-vue-barcode-scanner"
   },
-  "author": "Wisarut Phuvanantanond <noomerzx@gmail.com>",
+  "author": "Harrison Cloake <harrison.246@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/noomerzx/vue-barcode-scanner/issues"
+    "url": "+https://github.com/INDY-Cinema-Group/indy-vue-barcode-scanner/issues"
   },
-  "homepage": "https://github.com/noomerzx/vue-barcode-scanner"
+  "homepage": "https://github.com/INDY-Cinema-Group/indy-vue-barcode-scanner"
 }
